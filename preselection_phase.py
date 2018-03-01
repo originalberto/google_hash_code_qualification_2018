@@ -3,11 +3,11 @@ import math
 
 #### Global variables
 # File names
-fa = 'a_example.in'
-fb = 'b_should_be_easy.in'
-fc = 'c_no_hurry.in'
-fd = 'd_metropolis.in'
-fe = 'e_high_bonus.in'
+fa = 'in_files/a_example.in'
+fb = 'in_files/b_should_be_easy.in'
+fc = 'in_files/c_no_hurry.in'
+fd = 'in_files/d_metropolis.in'
+fe = 'in_files/e_high_bonus.in'
 
 files = [fa, fb, fc, fd, fe]
 
