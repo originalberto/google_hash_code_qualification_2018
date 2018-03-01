@@ -1,2 +1,4 @@
-# google_hash_code_qualification_2018
-Repository for google hash code competition 2018 (qualification phase). https://hashcode.withgoogle.com/
+# Google hash code qualification 2018
+Repository for Google hash code competition 2018 (qualification phase). https://hashcode.withgoogle.com/
+
+The code is (to date) incomplete
